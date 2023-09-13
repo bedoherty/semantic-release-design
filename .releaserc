@@ -1,18 +1,10 @@
 {
     "branches": [
-        "production",
-        {
-            "name": "beta",
-            "prerelease": true
-        },
-        {
-            "name": "alpha",
-            "prerelease": true
-        },
+       "production",
+       "staging",
         {
             "name": "develop",
-            "prerelease": true,
-            "channel": "debug"
+            "prerelease": true
         }
     ],
     "plugins": [

@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "semantic-release": "^21.1.1"
+    "semantic-release": "^18.0.0"
   }
 }
