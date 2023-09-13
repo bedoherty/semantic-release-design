@@ -1,2 +1,3 @@
 First commit, adding setup files
 Added our first feature
+Added our second feature
